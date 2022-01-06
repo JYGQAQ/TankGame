@@ -1,4 +1,4 @@
-package com.jyg.tankgame3;
+package com.jyg.tankgame;
 
 public class Bomb {
     int x, y;

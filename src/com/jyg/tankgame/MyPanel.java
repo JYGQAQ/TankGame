@@ -1,4 +1,4 @@
-package com.jyg.tankgame3;
+package com.jyg.tankgame;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package com.jyg.tankgame3;
+package com.jyg.tankgame;
 
 import javax.sound.sampled.*;
 import java.io.File;

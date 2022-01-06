@@ -1,7 +1,4 @@
-package com.jyg.tankgame3;
-
-import java.util.Arrays;
-import java.util.function.Consumer;
+package com.jyg.tankgame;
 
 public class Shot implements Runnable {
     int x;
