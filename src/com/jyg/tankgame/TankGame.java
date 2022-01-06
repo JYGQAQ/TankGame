@@ -5,7 +5,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.Scanner;
 
-public class TankGame2 extends JFrame {
+public class TankGame extends JFrame {
     MyPanel mp;
     static boolean flag;
     public static void main(String[] args) {
@@ -25,10 +25,10 @@ public class TankGame2 extends JFrame {
                 System.out.println("请输入“是”或者“否”");
             }
         }
-        TankGame2 tankGame2 = new TankGame2();
+        TankGame tankGame = new TankGame();
     }
 
-    public TankGame2() {
+    public TankGame() {
         mp = new MyPanel(flag);
         this.add(mp);
         this.setSize(1300, 800);
