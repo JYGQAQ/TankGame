@@ -4,10 +4,7 @@ import javax.sound.sampled.*;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * @author 韩顺平
- * @version 1.0
- */
+
 public class AePlayWave extends Thread {
     private String filename;
 
